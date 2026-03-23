@@ -25,17 +25,17 @@ Each of the empirical chapters (Chapters 3, 4, and 5) is structured as a self-co
 
 <figure>
   <img src="{{ site.url }}{{ site.baseurl }}/images/combined_model.png" alt="combined_model">
-  <figcaption>Effects of FOLP on participants’ ability to choose cereal brands according to calorie counts, in relation to their performance on the n-back test. See in Avalos, C. (2025). Food label granularity and working memory: Effects on food choice in a randomised controlled trial. Journal of Health, Population and Nutrition, 44, 375. https://link.springer.com/article/10.1186/s41043-025-01076-x</figcaption>
+  <figcaption>Effects of FOLP on participants’ ability to choose cereal brands according to calorie counts, in relation to their performance on the n-back test. See in Avalos, C. (2025). Food label granularity and working memory: Effects on food choice in a randomised controlled trial. Journal of Health, Population and Nutrition, 44, 375. <a href="https://link.springer.com/article/10.1186/s41043-025-01076-x" target="_blank">https://link.springer.com/article/10.1186/s41043-025-01076-x</a></figcaption>
 </figure>
 
 <figure>
   <img src="{{ site.url }}{{ site.baseurl }}/images/combined_nback_effects.png" alt="combined_nback_effects">
-  <figcaption>Interaction effects between FOLP treatments and n-back test levels on participants’ ability to choose cereal brands according to calorie counts. The plots show the associations between d’ as n-back performance (1-back, 2-back, and 3-back) and participants’ calorie count estimates under different labelling conditions (black = no label, red = detailed label, blue = coarse label). The bands represent 95% confidence intervals. See in Avalos, C. (2025). Food label granularity and working memory: Effects on food choice in a randomised controlled trial. Journal of Health, Population and Nutrition, 44, 375. https://link.springer.com/article/10.1186/s41043-025-01076-x</figcaption>
+  <figcaption>Interaction effects between FOLP treatments and n-back test levels on participants’ ability to choose cereal brands according to calorie counts. The plots show the associations between d’ as n-back performance (1-back, 2-back, and 3-back) and participants’ calorie count estimates under different labelling conditions (black = no label, red = detailed label, blue = coarse label). The bands represent 95% confidence intervals. See in Avalos, C. (2025). Food label granularity and working memory: Effects on food choice in a randomised controlled trial. Journal of Health, Population and Nutrition, 44, 375. <a href="https://link.springer.com/article/10.1186/s41043-025-01076-x" target="_blank">https://link.springer.com/article/10.1186/s41043-025-01076-x</a></figcaption>
 </figure>
 
 <figure>
   <img src="{{ site.url }}{{ site.baseurl }}/images/readability_5x3_grid.png" alt="readability_5x3_grid">
-  <figcaption>Mean perceived MTL print size readability from 2012 to 2018, stratified by sociodemographic characteristics, behavioural characteristics, and food products. Higher scores denote enhanced readability. See in Avalos, C., Wang, Y., & Shryane, N. (2026). Food label readability and consumption frequency: Isolating content-specific effects via a non-equivalent dependent variable design. Nutrients, 18(2), 197. https://www.mdpi.com/2072-6643/18/2/197</figcaption>
+  <figcaption>Mean perceived MTL print size readability from 2012 to 2018, stratified by sociodemographic characteristics, behavioural characteristics, and food products. Higher scores denote enhanced readability. See in Avalos, C., Wang, Y., & Shryane, N. (2026). Food label readability and consumption frequency: Isolating content-specific effects via a non-equivalent dependent variable design. Nutrients, 18(2), 197. <a href="https://www.mdpi.com/2072-6643/18/2/197" target="_blank">https://www.mdpi.com/2072-6643/18/2/197</a></figcaption>
 </figure>
 
 <figure>
