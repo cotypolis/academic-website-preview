@@ -25,7 +25,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Constanza Avalos-Valdebenito"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student in Social Statistics, UoM & Turing Enrichment Student. Expertise in Causal Inference."
+  bio              : "PhD (c) in Social Statistics, UoM & Turing Enrichment Visitor Researcher.  Expertise in Causal Inference."
   location         : "Manchester, UK"
   employer         : "University of Manchester"
   uri              : # URL
@@ -56,7 +56,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username

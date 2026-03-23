@@ -13,12 +13,12 @@ redirect_from:
 Causal inference · Transportability & generalisation of trial findings · Doubly robust machine learning · Food systems modelling · Complex survey design · Econometric evaluation of health policies
 
 ## RESEARCH STATEMENT
-Constanza is a finishing PhD researcher in Social Statistics at the University of Manchester, specialising in causal inference methods for evaluating health and food policy. Her doctoral work develops novel doubly robust machine learning estimators — combining Bayesian additive regression trees and gradient boosting — to generalise randomised trial findings to national target populations in non-nested designs. This positions her at the intersection of causal modelling, food labelling policy, and population-level inference. Prior to her doctorate, she built and directed national data infrastructure at Chile's National Institute of Statistics, providing rare expertise in large-scale food system datasets, multistage survey design, and algorithmic data quality control at census scale.
+Constanza is a finishing PhD (c) in Social Statistics at the University of Manchester, specialising in causal inference methods for evaluating health and food policy. Her doctoral work develops novel doubly robust machine learning estimators — combining Bayesian additive regression trees and gradient boosting — to generalise randomised trial findings to national target populations in non-nested designs. This positions her at the intersection of causal modelling, food labelling policy, and population-level inference. Prior to her doctorate, she built and directed national data infrastructure at Chile's National Institute of Statistics, providing rare expertise in large-scale food system datasets, multistage survey design, and algorithmic data quality control at census scale.
 
 ## RESEARCH EXPERIENCE
 
 **University of Manchester** | Manchester, United Kingdom
-*PhD Researcher* | Oct 2021 – Present
+*PhD (c)* | Oct 2021 – Present
 *Thesis: Estimating population average treatment effects for food labelling policy: A causal inference approach for generalising trial findings to target populations in non-nested designs.*
 * Developed and validated a novel doubly robust ML estimator pipeline (BART + gradient boosting) to adjust for confounding and transport causal effects from a food labelling RCT to the UK adult population, combining trial data with NDNS observational data via augmented inverse probability weighting and G-computation.
 * Designed and implemented an online randomised controlled trial (n = 498 representative UK sample via Prolific) to test the causal effects of food label granularity on food choice and working memory.
@@ -27,7 +27,7 @@ Constanza is a finishing PhD researcher in Social Statistics at the University o
 * Published 2 peer-reviewed papers (2025–2026) and 1 manuscript in preparation; presented findings at 5 national and international conferences.
 
 **Alan Turing Institute** | London, United Kingdom
-*Enrichment Placement Researcher* | Jan – Jul 2025
+*Turing Enrichment Visitor Researcher* | Jan – Jul 2025
 * Developed a principled causal inference framework for enhancing the external validity of RCTs, fusing trial data with observational population datasets through statistical matching and reweighting.
 * Co-organised and secured £2,000 funding for the institute-wide workshop 'Digital Twins: A Collaborative Workshop for Practical Application and Knowledge Exchange'.
 * Presented doctoral research at the ATI PhD Research Showcase and attended the Oxford Machine Learning Summer School (MLx Generative AI).

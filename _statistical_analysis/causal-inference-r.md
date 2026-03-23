@@ -13,7 +13,7 @@ Causal inference can be seen as a subfield of statistical analysis. It is used i
 
 There are no basic R functions that are direct implementations of standard causal inference designs, but many methods - more or less complex - are implemented in different packages on CRAN, which we structure into main topics:
 
-## Methods for experimental data
+## Packages for causal inference
 * Average treatment effect estimation and other univariate treatment effect estimates
 * Heterogeneous treatment effect estimation
 * Policy learning and dynamic treatment regimes
