@@ -1,7 +1,7 @@
 ---
 title: 'Causal Inference in R'
-date: 2020-01-01
-permalink: /posts/2020/01/causal-inference-r/
+collection: statistical_analysis
+permalink: /statistical-analysis/causal-inference-r/
 tags:
   - R
   - Causal Inference

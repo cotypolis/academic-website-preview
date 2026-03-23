@@ -1,7 +1,7 @@
 ---
 title: 'Causal Inference in Python'
-date: 2021-01-01
-permalink: /posts/2021/01/causal-inference-python/
+collection: statistical_analysis
+permalink: /statistical-analysis/causal-inference-python/
 tags:
   - Python
   - Causal Inference

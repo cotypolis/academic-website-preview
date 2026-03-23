@@ -37,7 +37,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=gV3_23wAAAAJ&hl=en&oi=ao"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-2747-4639"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -220,18 +220,21 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  teaching:
+  statistical_analysis:
     output: true
-    permalink: /:collection/:path/
+    permalink: /statistical-analysis/:path/
   publications:
     output: true
-    permalink: /:collection/:path/
+    permalink: /publications/:path/
+  teaching:
+    output: true
+    permalink: /teaching/:path/
   portfolio:
     output: true
-    permalink: /:collection/:path/
+    permalink: /portfolio/:path/
   talks:
     output: true
-    permalink: /:collection/:path/
+    permalink: /conferences/:path/
 
 
 # These settings control how pages and collections are included in the site

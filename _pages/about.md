@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,10 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Constanza is a PhD student in Social Statistics at the Cathie Marsh Institute, University of Manchester (UoM) and an Enrichment Student at the Alan Turing Institute. She holds a Master's degree in Social Research Methods and Statistics from the UoM. 
+Constanza is a finishing PhD researcher in Social Statistics at the University of Manchester, specializing in **causal inference methods** for evaluating health and food policy. Her doctoral work develops novel **doubly robust machine learning estimators**—combining Bayesian additive regression trees and gradient boosting—to generalize randomized trial findings to national target populations in non-nested designs. 
 
-Constanza has led research initiatives encompassing the design and collection of data for extensive surveys, as well as the analysis of quantitative data. As head of the Department of Agricultural Studies at the National Institute of Statistics of Chile, Constanza conducted research on the food industry. These research projects have been highly valuable to the Central Bank of Chile and The Food and Agriculture Organization (FAO) of the United Nations in understanding macroeconomic growth dynamics. 
+This research positions her at the intersection of causal modeling, food labeling policy, and population-level inference. Prior to her doctorate, she built and directed national data infrastructure at Chile's National Institute of Statistics, providing rare expertise in large-scale food system datasets, multistage survey design, and algorithmic data quality control at census scale.
 
-Her doctoral research employs advanced machine learning techniques to examine the causal impact of front-of-package food labelling on consumer behavior, drawing on both randomized trials and observational data. She specializes in causal inference approaches, leveraging methods like mixed/multilevel models to account for hierarchical structures and correlated data, particularly within health research outcomes.
-
-Her master and doctoral research has been funded by National Agency for Research and Development – ANID Becas Chile.
+### Research Interests
+*   **Causal Inference**: Transportability & generalization of trial findings
+*   **Machine Learning**: Doubly robust methods (BART, Gradient Boosting)
+*   **Food Systems**: Modeling and evaluating health policies
+*   **Survey Design**: Complex multistage designs and population-level inference
