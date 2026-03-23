@@ -111,4 +111,4 @@ Constanza is a finishing PhD researcher in Social Statistics at the University o
 * **Software**: R (primary), Python (Keras/TensorFlow), Stata, LaTeX.
 
 ---
-[Download full CV as PDF](/files/Constanza_Avalos-Valdevenito_CV.pdf)
+[Download full CV as PDF]({{ site.url }}{{ site.baseurl }}/files/Constanza_Avalos-Valdevenito_CV.pdf)
