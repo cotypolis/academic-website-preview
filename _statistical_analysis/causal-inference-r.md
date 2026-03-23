@@ -1,4 +1,6 @@
 ---
+layout: single
+author_profile: true
 title: 'Causal Inference in R'
 collection: statistical_analysis
 permalink: /statistical-analysis/causal-inference-r/

@@ -1,4 +1,6 @@
 ---
+layout: single
+author_profile: true
 title: 'Causal Inference in Python'
 collection: statistical_analysis
 permalink: /statistical-analysis/causal-inference-python/
