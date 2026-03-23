@@ -10,21 +10,15 @@
 main:
   - title: "Publications"
     url: /publications/
-
-  - title: "Conferences"
-    url: /conferences/
     
-  - title: "Teaching"
-    url: /teaching/
+  - title: "Teaching and Conferences"
+    url: /teaching-and-conferences/
     
   - title: "Research"
     url: /research/
     
   - title: "Statistical Analysis"
     url: /statistical-analysis/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
     
   - title: "Consulting"
     url: /consulting/
