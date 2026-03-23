@@ -5,32 +5,22 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+## Journal Articles
 
-{% include base_path %}
+* Avalos, C., Wang, Y., & Shryane, N. (in preparation). On the selection of covariates for transportability: A doubly robust machine learning approach for generalising a food labelling trial with mixed-type data.
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+* Avalos, C., Wang, Y., & Shryane, N. (2026). Food label readability and consumption frequency: Isolating content-specific effects via a non-equivalent dependent variable design. *Nutrients*, 18(2), 197. [https://www.mdpi.com/2072-6643/18/2/197](https://www.mdpi.com/2072-6643/18/2/197)
 
+* Avalos, C. (2025). Food label granularity and working memory: Effects on food choice in a randomised controlled trial. *Journal of Health, Population and Nutrition*, 44, 375. [https://link.springer.com/article/10.1186/s41043-025-01076-x](https://link.springer.com/article/10.1186/s41043-025-01076-x)
 
+## Technical Reports
 
+* FAO (2019). World Programme for the Census of Agriculture 2020, Vols 1 & 2. Chilean case study.
+
+* INE Chile (2018). Statistical Yearbook 2018 — National Agricultural Statistics chapter.
+
+* INE Chile (2018). Bulletin of Livestock, Crop, and Dairy Food Industry Statistics.
+
+## Peer Review
+
+* Reviewer, *British Food Journal*.
